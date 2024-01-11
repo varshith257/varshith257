@@ -1,7 +1,6 @@
 ## Hello👋 I'm Vamshi🧑🏻‍💻
 
-I am a full stack developer from India📍 I am a Computer Science Student at Indian Institute of Technology, Roorkee.
-
+I am a passionate full stack developer from India📍 
 ### Currently I am working with ...
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
