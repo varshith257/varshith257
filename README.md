@@ -1,6 +1,6 @@
 ## Hello👋 I'm Vamshi🧑🏻‍💻
 
-I am a passionate full stack developer from India📍
+I am a passionate full stack developer and DevOps Enthusiastic from India📍
 <!--
 I am a Computer Science Student from Indian Institute of Technology, Roorkee.
 -->
