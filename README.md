@@ -5,7 +5,7 @@ I am a Computer Science Student from Indian Institute of Technology, Roorkee.
 -->
 ### Currently I am working with ...
 
-<a href="" target="_blank" title="Rust" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/File:Rust_programming_language_black_logo.svg" alt="Rust" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Rust" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/r/88/rust.svg" alt="Rust" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Next.js" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
